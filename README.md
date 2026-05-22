@@ -86,12 +86,6 @@ Simply open `index.html` in your web browser. The website will:
 - Smooth scroll links
 - Active link highlighting
 
-## 📚 Credits
-
-- **Based on**: Bedimcode Tutorial - [YouTube Channel](https://www.youtube.com/@Bedimcode)
-- **Watch the Tutorial**: [Responsive Travel Website](https://youtu.be/cgV2tN8gxCg)
-- **Icons**: [Remix Icon](https://remixicon.com/)
-
 ## 🤝 Contributing
 
 Feel free to fork this project and customize it for your own needs!
